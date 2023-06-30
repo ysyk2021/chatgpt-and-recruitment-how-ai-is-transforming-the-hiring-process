@@ -17,11 +17,4 @@ Chatbots are computer programs that use natural language processing (NLP) to sim
 
 Chatbots can be used in a variety of industries, including customer service, healthcare, and education. In recruitment, chatbots can automate repetitive tasks, provide personalized recommendations, and collect data on candidate behavior and preferences.
 
-How AI and Chatbots Can Transform the Hiring Process
-----------------------------------------------------
-
-AI and chatbots can transform the hiring process by automating repetitive tasks, providing personalized recommendations, and collecting data on candidate behavior and preferences. This can save recruiters time, improve the candidate experience, and increase the chances of finding the right candidate for the job.
-
-Additionally, AI and chatbots can help reduce bias in the hiring process by removing human subjectivity and identifying potential biases or barriers in the recruitment process.
-
 Overall, AI and chatbots have the potential to revolutionize the recruitment industry, creating more efficient, effective, and inclusive hiring processes that meet the needs and preferences of both job seekers and employers.

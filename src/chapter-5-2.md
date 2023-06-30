@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 ChatGPT is a powerful AI tool that can revolutionize the recruitment process. In this chapter, we will explore the features and capabilities of ChatGPT in more detail.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a language model developed by OpenAI that uses deep learning to generate human-like responses to natural language queries. It was trained on a vast amount of data from the internet, making it capable of responding to a wide range of topics and questions.
-
 Features of ChatGPT
 -------------------
 

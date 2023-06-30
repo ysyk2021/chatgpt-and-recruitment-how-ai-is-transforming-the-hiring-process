@@ -12,25 +12,6 @@ The model consists of multiple layers of artificial neurons that are trained on 
 
 ChatGPT uses a technique called unsupervised learning, which means it was trained without any specific instructions or labeled data. Instead, it was fed a massive amount of raw text data and learned to recognize patterns and relationships between words and phrases.
 
-Features of ChatGPT
--------------------
-
-### Natural Language Processing
-
-ChatGPT uses natural language processing to understand and interpret user queries. This allows it to provide accurate and relevant responses to a wide range of questions and topics.
-
-### Conversational Interface
-
-ChatGPT has a conversational interface that simulates real human conversation. This makes it more engaging and personalized for users, providing a better user experience overall.
-
-### Personalization
-
-ChatGPT can be customized to provide personalized responses based on user preferences and past interactions. This makes it more effective at providing relevant information and improving the user experience.
-
-### Automation
-
-ChatGPT can automate certain aspects of the recruitment process, such as resume screening and candidate engagement. This helps streamline the recruitment process and improve efficiency.
-
 Conclusion
 ----------
 
