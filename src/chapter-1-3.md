@@ -1,5 +1,3 @@
-The Role of ChatGPT in Transforming the Hiring Process
-====================================================================
 
 In recent years, artificial intelligence (AI) has revolutionized various industries, and recruitment is no exception. AI-powered tools like ChatGPT have transformed the hiring process, making it faster, more efficient, and more inclusive.
 

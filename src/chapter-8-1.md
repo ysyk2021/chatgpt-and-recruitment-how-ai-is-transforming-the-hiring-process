@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored how ChatGPT can revolutionize the recruitment process by providing a more efficient and personalized experience for candidates. We have discussed the features and capabilities of ChatGPT, as well as successful case studies of companies that have implemented it in their recruitment processes.
 

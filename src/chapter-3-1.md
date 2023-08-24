@@ -1,5 +1,3 @@
-Factors Affecting Recruitment Processes
-=============================================================================================
 
 In this chapter, we will explore the factors affecting recruitment processes and how they contribute to current challenges in the hiring process.
 

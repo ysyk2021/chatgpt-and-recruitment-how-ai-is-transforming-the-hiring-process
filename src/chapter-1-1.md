@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 The recruitment process is vital for organizations to attract and hire the best talent. However, traditional recruitment practices can be time-consuming, costly, and inefficient. The emergence of artificial intelligence (AI) technology has transformed the recruitment process, making it faster, more efficient, and more inclusive.
 

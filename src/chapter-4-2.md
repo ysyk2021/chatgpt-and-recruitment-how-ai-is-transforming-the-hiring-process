@@ -1,5 +1,3 @@
-How AI and Chatbots can Transform the Hiring Process
-===========================================================================================================
 
 In this chapter, we will explore the role of AI and chatbots in recruitment and how they can transform the hiring process.
 

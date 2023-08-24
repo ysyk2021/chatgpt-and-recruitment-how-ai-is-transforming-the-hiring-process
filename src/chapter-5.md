@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore ChatGPT - an AI-powered chatbot that can transform the hiring process. We will discuss what ChatGPT is, its features and capabilities, and how it can be used to improve recruitment practices.
 

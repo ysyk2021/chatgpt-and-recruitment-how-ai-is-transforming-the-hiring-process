@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful AI tool that can revolutionize the recruitment process. In this chapter, we will explore the features and capabilities of ChatGPT in more detail.
 

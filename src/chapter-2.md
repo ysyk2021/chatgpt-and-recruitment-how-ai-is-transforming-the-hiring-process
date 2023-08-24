@@ -1,5 +1,3 @@
-Chapter 1: Basics of Recruitment
-================================
 
 In this chapter, we will cover the basics of recruitment, including its definition, importance in modern times, and the different stages of the recruitment process.
 

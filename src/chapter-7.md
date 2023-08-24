@@ -1,5 +1,3 @@
-Chapter 6: Future of Recruitment with ChatGPT
-=============================================
 
 As AI technology continues to advance, the future of recruitment processes with ChatGPT is full of potential advancements and challenges. In this chapter, we discuss some potential advancements in recruitment with ChatGPT, emerging trends and challenges, and provide a future outlook.
 

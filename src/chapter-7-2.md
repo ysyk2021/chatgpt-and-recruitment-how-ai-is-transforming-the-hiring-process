@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Recruitment and ChatGPT
-========================================================================================================
 
 As ChatGPT continues to transform the recruitment process, there are emerging trends and challenges that employers and job seekers need to be aware of. In this chapter, we discuss some of these emerging trends and challenges.
 

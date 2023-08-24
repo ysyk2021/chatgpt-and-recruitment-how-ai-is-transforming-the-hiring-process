@@ -1,5 +1,3 @@
-How ChatGPT can be Used to Transform the Hiring Process
-=========================================================================================
 
 ChatGPT is an AI language model that can communicate with humans in natural language. It can understand complex sentences, generate responses, and provide relevant information to users. ChatGPT has several applications in the recruitment process, including improving the candidate experience, streamlining screening processes, increasing efficiency and accuracy, and promoting inclusivity.
 

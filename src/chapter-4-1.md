@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-======================================================================================
 
 In this chapter, we will introduce AI and chatbots and their role in transforming the hiring process.
 

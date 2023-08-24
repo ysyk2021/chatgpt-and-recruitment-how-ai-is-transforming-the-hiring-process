@@ -1,5 +1,3 @@
-Importance of Recruitment in Modern Times
-===========================================================================
 
 Recruitment is a crucial function for organizations of all sizes and industries. In modern times, recruitment has become increasingly important due to several factors.
 

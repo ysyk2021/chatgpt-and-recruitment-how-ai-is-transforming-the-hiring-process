@@ -1,5 +1,3 @@
-Chapter 2: Current Challenges in Recruitment Process
-====================================================
 
 In this chapter, we will explore the current challenges faced by recruiters in the recruitment process. We will discuss the factors affecting recruitment processes, common challenges faced by recruiters, and the impact of these challenges on recruitment outcomes.
 

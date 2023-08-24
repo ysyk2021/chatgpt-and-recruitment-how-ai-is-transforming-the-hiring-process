@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in recruitment
-=========================================================================================================
 
 ChatGPT is an innovative tool that can transform the recruitment process by providing a personalized experience for candidates, streamlining screening processes, increasing efficiency and accuracy, and promoting inclusivity. However, to ensure successful implementation of ChatGPT in recruitment processes, it is essential to follow best practices.
 

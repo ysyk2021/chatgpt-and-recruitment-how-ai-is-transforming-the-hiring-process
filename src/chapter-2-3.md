@@ -1,5 +1,3 @@
-Different Stages of Recruitment Process
-=========================================================================
 
 In this chapter, we will introduce the basics of recruitment and discuss the different stages of the recruitment process.
 

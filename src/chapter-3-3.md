@@ -1,5 +1,3 @@
-Impact of These Challenges on the Recruitment Outcomes
-============================================================================================================
 
 In this chapter, we will discuss the current challenges in the recruitment process and their impact on recruitment outcomes.
 
