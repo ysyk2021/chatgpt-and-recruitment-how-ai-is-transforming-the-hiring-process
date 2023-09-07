@@ -12,3 +12,7 @@ Through the use of real-world examples and case studies, we will demonstrate how
 Overall, this book aims to provide a comprehensive overview of how ChatGPT is transforming the recruitment industry and how organizations can leverage this technology to find and hire the best candidates for their needs.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
