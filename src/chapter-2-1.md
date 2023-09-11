@@ -1,5 +1,4 @@
-Chapter: Definition of Recruitment
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recruitment is a fundamental process within organizations that involves attracting, sourcing, and selecting qualified individuals to fill job vacancies. It refers to the systematic approach of identifying, engaging, and ultimately hiring suitable candidates who possess the skills, qualifications, and attributes required for specific roles.
 

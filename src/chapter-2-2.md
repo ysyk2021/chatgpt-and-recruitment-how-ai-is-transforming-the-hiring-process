@@ -1,5 +1,4 @@
-Chapter: Importance of Recruitment in Modern Times
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Recruitment plays a pivotal role in modern times, as organizations navigate the complex and rapidly evolving business landscape. In this chapter, we will explore the significance of recruitment in the contemporary era and how it influences organizational success.
 

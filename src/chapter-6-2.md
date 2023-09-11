@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Recruitment
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations embrace the transformative power of AI, integrating ChatGPT into the recruitment process can bring numerous benefits. However, to maximize the effectiveness and mitigate potential challenges, it is important to follow best practices. In this chapter, we will explore some key best practices for using ChatGPT in recruitment.
 

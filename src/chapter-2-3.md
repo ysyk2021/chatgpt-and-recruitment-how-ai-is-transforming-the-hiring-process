@@ -1,5 +1,4 @@
-Chapter: Different Stages of the Recruitment Process
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The recruitment process comprises several distinct stages that organizations follow to identify, assess, and select qualified candidates for job vacancies. Each stage serves a specific purpose and contributes to the overall success of the hiring process. In this chapter, we will explore the different stages involved in recruitment.
 

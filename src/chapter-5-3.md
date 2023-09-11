@@ -1,5 +1,4 @@
-Chapter: How ChatGPT can be Used to Transform the Hiring Process
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and natural language processing have revolutionized various industries, and recruitment is no exception. With technologies like ChatGPT, organizations can leverage AI-powered chatbots to transform the hiring process. In this chapter, we will explore how ChatGPT can be utilized to enhance and streamline different stages of recruitment.
 

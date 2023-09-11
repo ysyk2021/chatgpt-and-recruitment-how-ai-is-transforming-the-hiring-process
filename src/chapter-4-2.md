@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Transform the Hiring Process
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI and chatbots have revolutionized the hiring process, transforming traditional recruitment practices into more efficient, effective, and engaging experiences for both candidates and organizations.
 
